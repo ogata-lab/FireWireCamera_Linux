@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{0AFF9EB3-A756-4161-B013-4DC17C7C14D0}") = "FireWireCameraComp", "FireWireCameraComp_vc8.vcproj", "{4D1D438D-0AC7-4775-B7CF-6D93F8AD6299}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{0AFF9EB3-A756-4161-B013-4DC17C7C14D0}") = "FireWireCamera", "FireWireCamera_vc8.vcproj", "{6D3B5B48-7A59-4BEA-B8F2-38AAD667BEE2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1D438D-0AC7-4775-B7CF-6D93F8AD6299}.Release|Win32.ActiveCfg = Release|Win32
+		{4D1D438D-0AC7-4775-B7CF-6D93F8AD6299}.Release|Win32.Build.0   = Release|Win32
+		{4D1D438D-0AC7-4775-B7CF-6D93F8AD6299}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D1D438D-0AC7-4775-B7CF-6D93F8AD6299}.Debug|Win32.Build.0   = Debug|Win32
+		{6D3B5B48-7A59-4BEA-B8F2-38AAD667BEE2}.Release|Win32.ActiveCfg = Release|Win32
+		{6D3B5B48-7A59-4BEA-B8F2-38AAD667BEE2}.Release|Win32.Build.0   = Release|Win32
+		{6D3B5B48-7A59-4BEA-B8F2-38AAD667BEE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D3B5B48-7A59-4BEA-B8F2-38AAD667BEE2}.Debug|Win32.Build.0   = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

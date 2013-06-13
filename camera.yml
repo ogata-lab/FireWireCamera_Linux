@@ -1,0 +1,23 @@
+%YAML:1.0
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 8.32617798e+002, 0., 3.16592438e+002, 0., 8.27455872e+002,
+       2.44768311e+002, 0., 0., 1. ]
+rotation: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: d
+   data: [ -2.15655875e+000, -2.15428305e+000, -5.68532199e-002 ]
+translation: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: d
+   data: [ -1.16374359e+002, -7.18987427e+001, 5.33820190e+002 ]
+distortion: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -1.43745944e-001, -3.08499366e-001, 4.34119580e-003,
+       -2.53633456e-003, 2.23627305e+000 ]
